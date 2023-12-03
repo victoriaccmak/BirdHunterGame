@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Music/BirdsChirpingMusic.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Music/GameOverMusic.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Music/MenuMusic.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/AmmoRetreat.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/AmmoSpawn.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/ButtonClick.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/CountdownSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/CrawlingAway.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/EatingSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/GameOverSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/MissSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/NewHighScore.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/Paused.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/PowerUp.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/Resumed.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Audio/Sounds/Squawk.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Fonts/LargeGameOverFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Fonts/MsgFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Fonts/NewHSFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Fonts/StatsFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Ammo/Energy.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Backgrounds/LeavesBackground.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Backgrounds/Nature.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Buttons/BackBtn1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Buttons/ExitBtn1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Buttons/GoBtn1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Buttons/InstructionsBtn1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Buttons/menuBtn1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Buttons/PlayBtn1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Health/health.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Hit/Hit.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Instruction/Instructions.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Pointer/Pointer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Sprites/Beatle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Sprites/Butterfly.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/Portfolio/BirdHunter/BirdHunter/Content/Images/Sprites/Spider.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
